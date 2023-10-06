@@ -20,13 +20,19 @@
     {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
+      "sizes": "192x192"
     },
     {
       "src": "android-chrome-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
     },
     {
       "src": "apple-touch-icon.png",
@@ -36,6 +42,7 @@
 
 
   ],
+  "start_url": "https://ballantines87.github.io/robopaul-PWA/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

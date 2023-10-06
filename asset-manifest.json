@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/robopaul-PWA/static/css/main.56a8156a.css",
-    "main.js": "/robopaul-PWA/static/js/main.e9c73316.js",
+    "main.css": "/robopaul-PWA/static/css/main.f83492bb.css",
+    "main.js": "/robopaul-PWA/static/js/main.02bf1b44.js",
     "static/js/787.32032a02.chunk.js": "/robopaul-PWA/static/js/787.32032a02.chunk.js",
     "service-worker.js": "/robopaul-PWA/service-worker.js",
     "static/media/SEGA.woff": "/robopaul-PWA/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/robopaul-PWA/index.html",
-    "main.56a8156a.css.map": "/robopaul-PWA/static/css/main.56a8156a.css.map",
-    "main.e9c73316.js.map": "/robopaul-PWA/static/js/main.e9c73316.js.map",
+    "main.f83492bb.css.map": "/robopaul-PWA/static/css/main.f83492bb.css.map",
+    "main.02bf1b44.js.map": "/robopaul-PWA/static/js/main.02bf1b44.js.map",
     "787.32032a02.chunk.js.map": "/robopaul-PWA/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56a8156a.css",
-    "static/js/main.e9c73316.js"
+    "static/css/main.f83492bb.css",
+    "static/js/main.02bf1b44.js"
   ]
 }
